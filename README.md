@@ -66,7 +66,6 @@ The notebook includes various types of visualizations:
 Perfect for:
 - Physics students and educators
 - Engineering applications
-- Game developers
 - Anyone interested in classical mechanics
 
 ## 🔬 Technical Details
